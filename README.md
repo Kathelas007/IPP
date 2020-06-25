@@ -7,4 +7,4 @@ Parser in php. Program loads code (Assembler like) from stdin, executes lexical 
 Interpret in python. Program loads XML from part 1 and iterpretes it.
 
 ## Part 3
-Tester in php. Thui program tests previous parts and generates results as HTML5 page.
+Tester in php. This program tests previous parts and generates results as HTML5 page.
